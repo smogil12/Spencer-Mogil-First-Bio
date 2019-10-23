@@ -31,14 +31,15 @@ float: left;
 
 #main-bio {
 
+float: left;
 
 
 }
 
 #contact-info {
-width: 30%;
+width: 20%;
 border: 5px solid black;
-margin: 50px;
+margin: 30px;
 float: right;
 background-color: lightgreen;
 padding: 20px;
@@ -67,3 +68,4 @@ h3{
 
 
 ul { display:table; margin:0 auto;}
+
